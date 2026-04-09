@@ -57,8 +57,7 @@ These files contain electrode configurations and stimulation parameters used in 
 
 ### tDCS + tRNS (Frontal region)
 
-![Combined](images/combined.png)
-
+![Combined](images/tdcs_trns_combined.png)
 ---
 
 ## 🔍 Observations
